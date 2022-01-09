@@ -1,0 +1,3 @@
+# discord_toxic_bot
+
+A BOT THAT DELETES TOXIC COMMENTS IN A SERVER
